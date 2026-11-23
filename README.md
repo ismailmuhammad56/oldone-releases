@@ -25,5 +25,11 @@ replaces a newer one.
 
 ## Status
 
-No public release has been published yet. The first release will appear here once the production
-release key exists.
+| Release | Sequence | Minecraft | SHA-256 of the client jar |
+|---------|----------|-----------|---------------------------|
+| 0.1.0   | 1        | 26.1.2    | `66a85ce10936333bba17182bd02b29ed51d751161983826038f5310c37aef6fd` |
+
+The bootstrap is available on the [Releases](https://github.com/ismailmuhammad56/oldone-releases/releases) page.
+
+Release signing key fingerprint source (public key, Base64 X.509):
+`MCowBQYDK2VwAyEAkOlAnjF+JZWwDAI4+esUWkVztvVeHhV3dBpUVs77kUw=`
