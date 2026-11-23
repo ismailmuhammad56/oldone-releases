@@ -27,10 +27,12 @@ replaces a newer one.
 
 | Release | Sequence | Minecraft | SHA-256 of the client jar |
 |---------|----------|-----------|---------------------------|
-| 0.1.1   | 2        | 26.1.2    | `4e5852c70b197b20e166bc2f622c768ff4c03850137cc4e8554628786d7e487f` |
+| 0.1.2   | 3        | 26.1.2    | `d3e4f7fe2de1b6a24439e8908547cc8607844a2332867a87e24ce69b89d4062d` |
+| 0.1.1   | 2        | 26.1.2    | superseded |
 | 0.1.0   | 1        | 26.1.2    | superseded |
 
-Release 0.1.1 is a **test release**: it accepts the offline-mode test server. Server directory: sequence 1, valid until 2026-12-23.
+Release 0.1.2 is a **test release**: it accepts the offline-mode test server and reaches it through the
+built-in WebSocket tunnel (no extra software for players). Server directory: sequence 2, valid until 2026-12-23.
 
 The bootstrap is available on the [Releases](https://github.com/ismailmuhammad56/oldone-releases/releases) page.
 
